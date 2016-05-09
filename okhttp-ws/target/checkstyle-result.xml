@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\internal\ws\org\codehaus\mojo\animal_sniffer\IgnoreJRERequirement.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="41" column="1" severity="error" message="&apos;{&apos; should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\internal\ws\RealWebSocket.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\internal\ws\WebSocketProtocol.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\internal\ws\WebSocketReader.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\internal\ws\WebSocketWriter.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\ws\WebSocket.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\ws\WebSocketCall.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okhttp3\ws\WebSocketListener.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\AsyncTimeout.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Base64.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Buffer.java">
+<error line="32" column="15" severity="error" message="Unused import - okio.Util.reverseBytesShort." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="33" column="15" severity="error" message="Unused import - okio.Util.sneakyRethrow." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="34" column="15" severity="error" message="Unused import - okio.Util.UTF_8." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\BufferedSink.java">
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\BufferedSource.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\ByteString.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Okio.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\RealBufferedSink.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\RealBufferedSource.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Segment.java">
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\SegmentedByteString.java">
+<error line="53" column="13" severity="error" message="&apos;final&apos; modifier out of order with the JLS suggestions." source="com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck"/>
+<error line="54" column="13" severity="error" message="&apos;final&apos; modifier out of order with the JLS suggestions." source="com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\SegmentPool.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Sink.java">
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Source.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Timeout.java">
+</file>
+<file name="C:\Users\Tony\workspace\OkHttp\okhttp-ws\src\main\java\okio\Util.java">
+</file>
+</checkstyle>
